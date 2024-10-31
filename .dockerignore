@@ -1,0 +1,2 @@
+.env
+fly secrets set MONGODB_URI="mongodb+srv://admin:admin@mongocluster.xqmij.mongodb.net/phone?retryWrites=true&w=majority&appName=MongoCluster"
